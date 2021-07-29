@@ -1,0 +1,6 @@
+/lambda/
+/.idea/libraries/
+/.idea/jarRepositories.xml
+/PDFService/target/
+/ExcelService/target/
+/ClientService/target/
